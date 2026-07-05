@@ -1,0 +1,6 @@
+Dataset: Iris Dataset
+
+Source: Scikit-learn (sklearn.datasets.load_iris)
+
+Description:
+The Iris dataset contains measurements of iris flowers and is widely used for clustering and classification examples in machine learning.
